@@ -1,7 +1,9 @@
 # manifest.json-template
 Use this template to create texture packs for Minecraft Bedrock Edition
 
-'template':
+
+
+
 {
   "format_version": 2,
   "header": {
