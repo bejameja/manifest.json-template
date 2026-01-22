@@ -9,23 +9,28 @@ replace "UUID1" and "UUID2" wirh the [UUID generator](https://www.uuidgenerator.
   "format_version": 2,
   "header": {
     "name": "YOUR PACK NAME",
-    "description": "YOUR PACK DESCRIPTION",
-    "uuid": "UUID 1",
-    "version": [0, 6, 4],
-    "min_engine_version": [1, 16, 0]
+    "description": " ",
+    "uuid": "UUID1",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      17,
+      0
+    ]
   },
   "modules": [
     {
       "type": "resources",
-      "uuid": "UUID 2",
-      "version": [0, 6, 4]
-    }
-  ],
-  "subpacks": [
-    {
-      "folder_name": "YOUR FOLDER NAME",
-      "name": "NAME",
-      "memory_tier": 1
+      "uuid": "UUID2",
+      "version": [
+        1,
+        0,
+        0
+      ]
     }
   ]
 }
