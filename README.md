@@ -1,6 +1,6 @@
 # manifest.json-template
 Use this template to create texture packs for Minecraft Bedrock Edition
-[UUID generator](https://www.uuidgenerator.net/)
+replace "UUID1" and "UUID2" wirh the [UUID generator](https://www.uuidgenerator.net/)
 
 
 
